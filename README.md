@@ -1,6 +1,13 @@
 # my-gitpod-javascript
 Testing a Javascript teaching gitpod
 
+Link to make it 
+
+http://gitpod.io/#https://github.com/hpssjellis/my-gitpod-javascript
+
+Snapshot of it
+
+
 
 Open the browser window and learn some javascript
 
