@@ -5,7 +5,10 @@ Link to make it
 
 http://gitpod.io/#https://github.com/hpssjellis/my-gitpod-javascript
 
-Snapshot of it
+June 21st 2019 Snapshot of it
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/6e9405da-4936-4004-802e-1e740c3a63d2)
+
 
 
 
